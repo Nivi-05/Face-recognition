@@ -1,25 +1,5 @@
-# face-recognition
-This repository contains code for a face recognition project. 
-The project involves creating a dataset folder for training the face recognition model. 
-The code is located in the person_final directory.
+# HI
+I am a dedicated student currently pursuing a Bachelor's degree in Electronics and Computer Science (B.Tech) with a keen interest in the fields of Artificial Intelligence (AI) and Data Science. I possess a strong passion for exploring innovative technologies and applying them to solve real-world problems.
 
-Dataset Creation:
+I actively seek opportunities to engage in hands-on projects and collaborate with like-minded individuals to expand my knowledge and skills in AI and data science. I am excited about the prospect of contributing to cutting-edge research and innovation in these dynamic fields, aiming to make meaningful contributions to society through technology.
 
-To create the dataset folder, please follow these steps:
-Download the file provided in this repository. Create a folder called datasets in the file.
-Locate the person_final directory.
-Run the code to generate the dataset folder.
-Downloading the File:
-
-Before running the code, download the file provided in this repository
-Contents:
-
-person_final: This directory contains the code for face recognition.
-
-How to Use:
-
-Download the file provided in this repository.
-Navigate to the person_final directory.
-Run the code to create the dataset folder.
-Follow the additional instructions provided in the code for further steps.
-Note: If you encounter any issues or have questions, feel free to open an issue in this repository.
